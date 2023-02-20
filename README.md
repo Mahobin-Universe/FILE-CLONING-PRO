@@ -21,7 +21,7 @@ PAID TOOLS
 - `pip install requests`
 - `pip install mechanize`
 - `rm -rf AKING-PRO`
-- `git clone --depth=1 https://github.com/AKING110/AKING-PRO.git`
+- `git clone --depth=1 https://github.com/THE-BADBOY/FILE-CLONING-PRO.git`
 - `cd AKING-PRO`
 - `python AKING.py`
 
